@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio. I'm a passionate Frontend Developer with a keen interest in creating visually stunning and user-friendly digital experiences.
 
-🔗 **Explore My Portfolio**  
-[Visit My Portfolio](https://damnanuj-portfolio.vercel.app/)
+🔗 [**Explore My Portfolio**  ](https://damnanuj-portfolio.vercel.app/)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=damnanuj)
