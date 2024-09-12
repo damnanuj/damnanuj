@@ -1,4 +1,4 @@
-## Hi there! I'm Anuj
+## Hi there!👋 I'm Anuj
 
 Passionate Frontend Developer with a keen interest in creating visually stunning and user-friendly digital experiences.
 
