@@ -2,8 +2,6 @@
 
 Passionate Frontend Developer with a keen interest in creating visually stunning and user-friendly digital experiences.
 
-🔗 [**Explore My Portfolio**  ](https://damnanuj-portfolio.vercel.app/)
-
 <!--
 ![](https://komarev.com/ghpvc/?username=damnanuj)
 **damnanuj/damnanuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
